@@ -1,5 +1,5 @@
 # Simple-Vanilla-LSTM
-A simply vanilla implementation of a recurrent LSTM neural network implemented in python
+A simple vanilla implementation of a recurrent LSTM neural network implemented in python
 
 A straightforward implementation of an LSTM neural network for comments for clarity. It includes a manual implementation of RMSprop.
 
